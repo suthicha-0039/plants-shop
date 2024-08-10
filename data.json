@@ -1,0 +1,44 @@
+[
+  {
+    "pid": "1",
+    "name": "Monstera Adansonii Variegata",
+    "price": "500",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/118e6280-7055-479a-9b51-8892ead12e45.jpg"
+  },
+  {
+    "pid": "2",
+    "name": "Monstera Mint Monstera",
+    "price": "700",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/monstera1.jpg"
+  },
+  {
+    "pid": "3",
+    "name": "Silver Sword Philodendron",
+    "price": "300",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/Capturezxz.jpg"
+  },
+  {
+    "pid": "4",
+    "name": "Monstera ObliquaMonstera Obliqua",
+    "price": "800",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/svsvv.jpg"
+  },
+  {
+    "pid": "5",
+    "name": "Philodendron bilitea variegated",
+    "price": "1000",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/q4t3xxentzQrnAkMhlQ-o.jpg"
+  },
+  {
+    "pid": "6",
+    "name": "Homolomena Rubescens variegated",
+    "price": "600",
+    "Category": "Ornamental plants",
+    "imageSrc": "https://park.co.th/wp-content/uploads/2021/03/cd3ac3f49308fd2f8cb85fb2d9996895.jpg"
+  }
+]
